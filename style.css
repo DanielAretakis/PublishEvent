@@ -20,12 +20,7 @@ p{
 
 header{
   width: 31.9rem;
-  margin-top: 7.4rem;
-}
-
-.intro{
-  margin: 0 56.5rem 4.2rem;
-  width: 32rem;
+  margin: 7.4rem 0 4.2rem;
 }
 
 body::before{
